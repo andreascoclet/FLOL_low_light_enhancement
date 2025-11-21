@@ -1,0 +1,9 @@
+Training started: 2025-11-15 16:35:41
+
+Trainable parameters: 1.359M (1,359,433)
+
+Best PSNR: -19.8473
+Best SSIM: 0.7640
+
+Last PSNR: -14.7784
+Last SSIM: 0.5242

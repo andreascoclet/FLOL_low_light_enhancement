@@ -1,0 +1,58 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+deblur_env/
+
+
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Data / archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Dataset folders
+GoPro/
+data/
+__MACOSX/
+# checkpoints/
+runs/
+
+
+
+# Model checkpoints
+# checkpoints/
+# *.pth
+# *.pt
+# *.tar
+
+# Logs
+wandb/
+runs/
+logs/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+results/*
+!results/flol-plus-run-vgg-lr_0.0004-channels_16-patience_32-lambda_0.1-seed_42_3cbeb74b/
+!results/flol-plus-run-vgg-lr_0.0004-channels_16-patience_32-lambda_0.1-seed_42_3cbeb74b/**
+
+checkpoints/*
+!checkpoints/flol-plus-run-vgg-lr_0.0004-channels_16-patience_32-lambda_0.1-seed_42_3cbeb74b/
+!checkpoints/flol-plus-run-vgg-lr_0.0004-channels_16-patience_32-lambda_0.1-seed_42_3cbeb74b/**
