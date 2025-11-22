@@ -10,35 +10,35 @@ if __name__ == "__main__":
 
     # URLs + filenames for Yandex Datasets
     YADISK_DATASETS = [
-        # {
-        #     "url": "https://disk.360.yandex.ru/d/8ar2q0chZ2ZePw",
-        #     "filename": "LSRW.zip"
-        # },
-        # {
-        #     "url": "https://disk.360.yandex.ru/d/VXSfzoU9gAFu0w",
-        #     "filename": "LOL-v2.zip"
-        # },
-        # {
-        #     "url": "https://disk.360.yandex.ru/d/Pv7kHFNq0_Rmpg", 
-        #     "filename": "UHD-LL_test.zip"
-        # },
+        {
+            "url": "https://disk.360.yandex.ru/d/8ar2q0chZ2ZePw",
+            "filename": "LSRW.zip"
+        },
+        {
+            "url": "https://disk.360.yandex.ru/d/VXSfzoU9gAFu0w",
+            "filename": "LOL-v2.zip"
+        },
+        {
+            "url": "https://disk.360.yandex.ru/d/Pv7kHFNq0_Rmpg", 
+            "filename": "UHD-LL_test.zip"
+        },
 
         {
             "url": "https://disk.360.yandex.ru/d/jzD-_1KwCYwpYw", 
             "filename": "UHD-LL_train.zip"
         },
 
-        # {
-        #     "url": "https://disk.360.yandex.ru/d/kbIRrqEmQG-gBg",
-        #     "filename": "Test_Quality_v2.zip"
+        {
+            "url": "https://disk.360.yandex.ru/d/kbIRrqEmQG-gBg",
+            "filename": "Test_Quality_v2.zip"
 
-        # }
-        # ,
-        # {
-        #     "url": "https://disk.360.yandex.ru/d/lAauPHGroUrDEQ",
-        #     "filename": "Test_Quality.zip"
+        }
+        ,
+        {
+            "url": "https://disk.360.yandex.ru/d/lAauPHGroUrDEQ",
+            "filename": "Test_Quality.zip"
             
-        # }
+        }
 
     ]
 

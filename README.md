@@ -7,6 +7,14 @@ This repository contains my implementation of **FLOL+**, from the paper
 
 ## Training
 
+  First make sure you downloaded the datasets 
+
+```bash
+python src/datasets/download_data.py
+```
+
+and then :
+
 ```bash
 python src/training/train.py
 ```
