@@ -26,7 +26,7 @@ Checkpoints and TensorBoard logs are saved in:
 ## Inference / Testing
 
 ```bash
-python src/testing/test.py --checkpoint_path= <your_checkpoint>
+python src/testing/test.py --checkpoint_dir= <your_checkpoint>
 ```
 
 The script outputs:
